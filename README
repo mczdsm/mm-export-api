@@ -1,1 +1,3 @@
-Quick flask API to export a Mattermost Channel as JSON.
+Quick flask API to export a Mattermost Channel as JSON
+
+Forked from https://gist.github.com/RobertKrajewski/5847ce49333062ea4be1a08f2913288c
